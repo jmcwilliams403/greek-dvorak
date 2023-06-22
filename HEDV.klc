@@ -85,6 +85,7 @@ DEADKEY	1fc0
 03c5	1fe6	// υ -> ῦ
 03c9	1ff6	// ω -> ῶ
 1fbf	1fcf@	// ᾿ -> PSILI AND PERISPOMENI
+1fc0	1fc0	// ῀ -> ῀
 1ffe	1fdf@	// ῾ -> DASIA AND PERISPOMENI
 
 DEADKEY	1fc1
@@ -154,6 +155,7 @@ DEADKEY	1fdf
 DEADKEY	00af
 
 0020	00af	//   -> ¯
+00af	00af	// ¯ -> ¯
 0391	1fb9	// Α -> Ᾱ
 0399	1fd9	// Ι -> Ῑ
 03a5	1fe9	// Υ -> Ῡ
@@ -164,6 +166,7 @@ DEADKEY	00af
 DEADKEY	037a
 
 0020	037a	//   -> ͺ
+037a	037a	// ͺ -> ͺ
 0384	1f77@	// ΄ -> OXIA AND YPOGEGRAMMENI
 0391	1fbc	// Α -> ᾼ
 0397	1fcc	// Η -> ῌ
@@ -266,6 +269,7 @@ DEADKEY	1f31
 DEADKEY	02d8
 
 0020	02d8	//   -> ˘
+02d8	02d8	// ˘ -> ˘
 0391	1fb8	// Α -> Ᾰ
 0399	1fd8	// Ι -> Ῐ
 03a5	1fe8	// Υ -> Ῠ
@@ -293,6 +297,7 @@ DEADKEY	1fef
 03c5	1f7a	// υ -> ὺ
 03c9	1f7c	// ω -> ὼ
 1fbf	1fcd@	// ᾿ -> PSILI AND VARIA
+1fef	1fef	// ` -> `
 1ffe	1fdd@	// ῾ -> DASIA AND VARIA
 
 DEADKEY	1fed
@@ -362,6 +367,7 @@ DEADKEY	1ffe
 1fc0	1fdf@	// ῀ -> DASIA AND PERISPOMENI
 1fef	1fdd@	// ` -> DASIA AND VARIA
 1ffd	1fde@	// ´ -> DASIA AND OXIA
+1ffe	1ffe	// ῾ -> ῾
 
 DEADKEY	1fde
 
@@ -471,6 +477,7 @@ DEADKEY	1ffd
 03c9	1f7d	// ω -> ώ
 03d2	03d3	// ϒ -> ϓ
 1fbf	1fce@	// ᾿ -> PSILI AND OXIA
+1ffd	1ffd	// ´ -> ´
 1ffe	1fde@	// ῾ -> DASIA AND OXIA
 
 DEADKEY	1fbf
@@ -492,6 +499,7 @@ DEADKEY	1fbf
 03c1	1fe4	// ρ -> ῤ
 03c5	1f50	// υ -> ὐ
 03c9	1f60	// ω -> ὠ
+1fbf	1fbf	// ᾿ -> ᾿
 1fc0	1fcf@	// ῀ -> PSILI AND PERISPOMENI
 1fef	1fcd@	// ` -> PSILI AND VARIA
 1ffd	1fce@	// ´ -> PSILI AND OXIA
